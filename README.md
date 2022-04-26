@@ -1,6 +1,6 @@
 - 👋 Hi there,
 - :man: I’m Dhwaj Gupta
-- 🌱 I’m working in GEVME as a Software Engineer.
+- 🌱 I’m a Frontend Developer.
 - :diamond_shape_with_a_dot_inside: Connect with we on [https://www.linkedin.com/in/dhwajgupta](https://www.linkedin.com/in/dhwajgupta)
 
 <!---
