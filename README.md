@@ -8,6 +8,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dhwaj%20Gupta-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dhwajgupta/)
   [![Resume](https://img.shields.io/badge/Resume-Download%20Now-green)](https://drive.google.com/file/d/1JInJSLUiIHSfTfSnX93QuuqckBuHTcL4/view?usp=sharing)
   ![Email](https://img.shields.io/badge/Email-dhwajgupta27%40gmail.com-red)
+  ![counter](https://envmwosnn4bq5qx.m.pipedream.net)
 
   <h2>⚡ About Me</h2>
 <div align="left">
@@ -20,4 +21,6 @@
   <p>Let's connect and build something incredible together! Feel free to reach out via email or LinkedIn.</p>
 
   <p>Keep innovating, keep coding! 🚀🔥</p>
+
 </div>
+
